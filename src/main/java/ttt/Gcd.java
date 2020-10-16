@@ -1,3 +1,5 @@
+package ttt;
+
 public class Gcd {
     public static void main(String[] args) {
         long a = 708787872;

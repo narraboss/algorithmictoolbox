@@ -1,3 +1,5 @@
+package ttt;
+
 // Java program to multiply two polynomials
 class GFG
 {

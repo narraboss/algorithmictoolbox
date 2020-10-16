@@ -1,3 +1,5 @@
+package ttt;
+
 public class MinFuels {
 
     public static void main(String[] args) {
